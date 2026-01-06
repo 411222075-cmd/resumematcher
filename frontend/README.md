@@ -1,16 +1,9 @@
-# React + Vite
+# Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
 
-Currently, two official plugins are available:
+### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
+### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

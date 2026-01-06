@@ -49,13 +49,13 @@ class SkillMatcher {
     // Generate summary
     let summary = '';
     if (matchPercentage >= 80) {
-      summary = 'Excellent match! Your profile aligns very well with the role requirements. You have strong expertise in most critical areas.';
+      summary = 'Profil Anda sangat sesuai dengan kebutuhan posisi ini. Anda memiliki keahlian yang kuat di sebagian besar area penting.';
     } else if (matchPercentage >= 60) {
-      summary = 'Good match with some skill gaps. You have a solid foundation but should consider developing the missing skills to become an ideal candidate.';
+      summary = 'Kecocokan cukup baik dengan beberapa kekurangan keterampilan. Anda memiliki dasar yang solid, namun disarankan untuk mengembangkan keterampilan yang masih kurang agar menjadi kandidat yang ideal.';
     } else if (matchPercentage >= 40) {
-      summary = 'Moderate match. Several key skills need development for this role. Focus on upskilling in the missing areas to improve your candidacy.';
+      summary = 'Beberapa keterampilan utama masih perlu dikembangkan untuk posisi ini. Fokus pada peningkatan kemampuan di area yang belum terpenuhi agar peluang Anda meningkat.';
     } else {
-      summary = 'Limited match. Significant skill development needed for this position. Consider taking courses or gaining hands-on experience in the required technologies.';
+      summary = 'Diperlukan pengembangan keterampilan yang signifikan untuk posisi ini. Pertimbangkan mengikuti pelatihan atau menambah pengalaman praktik pada teknologi yang dibutuhkan.';
     }
     
     return {

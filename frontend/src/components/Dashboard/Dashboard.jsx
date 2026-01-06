@@ -138,7 +138,7 @@ const Dashboard = () => {
       <footer className="mt-12 py-6 border-t border-slate-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-sm text-slate-500">
-            © 2024 Resume Matcher. Built with React, Node.js, and MySQL.
+            © 2025 Resume Matcher. Pemograman Fullstack. Bagas . Rety. Nisa
           </p>
         </div>
       </footer>
